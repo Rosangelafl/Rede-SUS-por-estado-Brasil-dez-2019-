@@ -12,3 +12,6 @@ Com dados do Datasus dos CNES ativos de dezembro de 2019 analisei e filtrei as v
 
 Este é apenas uma das análises. Venho estudando os dados e microdados do Datasus desde 2018, em uma tentativa de entender 
 algumas das centenas de bases de dados utilizadas no sistema.
+
+A primeira análise com dados do Datasus dimensionava a rede de atenção básica, a porcentagem da população municipal atendida por
+esse rede e descobrir em quais UBS e onde eram oferecidas as Práticas Integrativas de Saúde. 
