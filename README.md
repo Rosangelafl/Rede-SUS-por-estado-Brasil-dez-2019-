@@ -10,8 +10,7 @@ Com dados do Datasus dos CNES ativos de dezembro de 2019 analisei e filtrei as v
 
 [Dados Datasus, dez_2019](https://drive.google.com/file/d/1IeSlUuHIjVoZu2tEh9UliYMt84bTmuDu/view?usp=sharing)
 
-Este é apenas uma das análises. Venho estudando os dados e microdados do Datasus desde 2018, em uma tentativa de entender 
-algumas das centenas de bases de dados utilizadas no sistema.
+![UTIs_estado](https://user-images.githubusercontent.com/20996253/84607230-7d562300-ae82-11ea-8845-9dce05345ba7.png)
 
-A primeira análise com dados do Datasus dimensionava a rede de atenção básica, a porcentagem da população municipal atendida por
-esse rede e descobrir em quais UBS e onde eram oferecidas as Práticas Integrativas de Saúde. 
+
+![Cobertura SUS_mapa](https://user-images.githubusercontent.com/20996253/84607256-a4145980-ae82-11ea-8aa8-99caa906f22b.png)
